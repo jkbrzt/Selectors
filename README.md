@@ -1,1 +1,1 @@
-Selectors.js is an old experiment. It's a fairly complete implementation of CSS3 selectors in JavaScript, not optimized for speed but trying to follow the spec as much as possible (http://webkitchen.cz/lab/js/Selectors/W3C-tests).
+Selectors.js is an old experiment. It's a fairly complete implementation of CSS3 selectors in JavaScript, not optimized for speed but rather trying to follow the spec as much as possible (http://webkitchen.cz/lab/js/Selectors/W3C-tests).
